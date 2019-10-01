@@ -10,6 +10,5 @@ img.emoji {
 	background: none !important;
 	padding: 0 !important;
 }
-html{
+html,body{
 	background-color: white;
-}
